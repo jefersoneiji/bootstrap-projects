@@ -2,7 +2,6 @@
 
 The main classes of bootstrap are used, here are the main ones:
 
-**Navbar** <br>
-**Containers** <br>
-**Flex display** <br>
-**Responsive Web Pages: Grid System** <br>
+* **Navbar** <br>
+* **Flex display** <br>
+* **Responsive Web Pages: Grid System** <br>
