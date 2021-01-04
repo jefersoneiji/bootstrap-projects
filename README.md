@@ -1,10 +1,16 @@
 ### This repo contains projects using bootstrap
 
-The main classes of bootstrap are used, here are the main ones:
+Here are some of the classes used:
 
 * **Navbar** <br>
 * **Flex display** <br>
-* **Responsive Web Pages: Grid System** <br>
+* **Grid System** <br>
+* **Carousel** <br>
+
+### And some jQuery as well
+
+![page gif](https://github.com/codeLearnerrr/bootstrap-projects/blob/master/bootstrapREADME.gif)
+
 
 ### This is a live preview of one of them:
 
