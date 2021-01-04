@@ -11,6 +11,11 @@ Here are some of the classes used:
 
 ![page gif](https://github.com/codeLearnerrr/bootstrap-projects/blob/master/bootstrapREADME.gif)
 
+### It is possible to:
+* See book prices <br>
+* See navigation option in NavBar <br>
+* Type e-mail in newsletter field <br>
+* Use the page in mobile devices <br>
 
 ### This is a live preview of one of them:
 
