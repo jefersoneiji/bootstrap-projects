@@ -6,16 +6,14 @@
     This repo contains projects using bootstrap.
 </p>
 
+![page gif](https://github.com/jefersoneiji/bootstrap-projects/assets/44307139/fc0be213-216f-4e9d-b7ed-35212fab0f9e)
+
 ## Here are some of the classes used:
 
 * **Navbar** <br>
 * **Flex display** <br>
 * **Grid System** <br>
 * **Carousel** <br>
-
-## And some jQuery as well
-
-![page gif](https://github.com/codeLearnerrr/bootstrap-projects/blob/master/bootstrapREADME.gif)
 
 ## It is possible to:
 * See book prices <br>
